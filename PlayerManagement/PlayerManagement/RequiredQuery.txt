@@ -1,0 +1,7 @@
+﻿USE PlayerManagementMiniDB
+GO
+ALTER TABLE Player
+ALTER COLUMN Height DECIMAL(5,2);
+
+ALTER TABLE Player
+ALTER COLUMN PlayerWeight DECIMAL(5,2);

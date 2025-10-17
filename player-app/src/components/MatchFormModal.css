@@ -1,0 +1,30 @@
+.custom-modal-bg .modal-content {
+  background-color: #f0f8ff; /* AliceBlue */
+  border-radius: 10px;
+  border: none;
+  box-shadow: 0 5px 15px rgba(0, 0, 0, 0.3);
+}
+
+.custom-modal-bg .modal-header {
+  background-color: #dbeafe; /* Light Indigo */
+  border-bottom: none;
+}
+
+.custom-modal-bg .modal-title {
+  color: #1d4ed8; /* Indigo */
+  font-weight: bold;
+  text-align: center;
+}
+
+.custom-modal-bg .modal-body {
+  padding: 1.5rem;
+}
+
+.custom-modal-bg .btn-close {
+  filter: brightness(0.7);
+  transition: filter 0.2s ease;
+}
+
+.custom-modal-bg .btn-close:hover {
+  filter: brightness(1);
+}

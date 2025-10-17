@@ -1,0 +1,40 @@
+# .gitignore for ASP.NET Core + React
+
+# Visual Studio
+.vs/
+*.user
+*.suo
+*.userosscache
+*.sln.docstates
+
+# Build & publish
+bin/
+obj/
+publish/
+
+# Rider
+.idea/
+
+# Node
+node_modules/
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+
+# React build output
+/frontend/build/
+/frontend/dist/
+
+# Environment variables
+*.env
+.env.local
+.env.development.local
+.env.test.local
+.env.production.local
+
+# Logs
+*.log
+
+# OS files
+.DS_Store
+Thumbs.db

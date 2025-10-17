@@ -1,0 +1,79 @@
+.player-card {
+  background: linear-gradient(135deg, #fdfbfb 0%, #ebedee 100%);
+  border: 1px solid #ddd;
+  transition: box-shadow 0.3s ease, transform 0.3s ease;
+  position: relative;
+}
+
+.player-card:hover {
+  box-shadow: 0 8px 20px rgba(0, 123, 255, 0.3);
+  transform: translateY(-4px);
+  cursor: pointer;
+}
+
+.player-card .badge {
+  font-weight: 600;
+  padding: 0.35em 0.65em;
+  font-size: 0.85rem;
+  border-radius: 12px;
+  box-shadow: 0 1px 5px rgba(0,0,0,0.1);
+}
+
+.badge.gender {
+  background: linear-gradient(45deg, #17a2b8, #20c997);
+  color: white;
+}
+
+.badge.blood-group {
+  background: linear-gradient(45deg, #dc3545, #e4606d);
+  color: white;
+}
+
+.badge.sports-type {
+  background: linear-gradient(45deg, #ffc107, #ffca2c);
+  color: #212529;
+  box-shadow: 0 0 8px #ffca2caa;
+}
+
+.player-card .actions button {
+  min-width: 40px;
+  border-radius: 6px;
+  transition: background-color 0.3s ease;
+}
+
+.player-card .actions button.edit-btn {
+  background-color: #28a745;
+  border: none;
+  color: white;
+}
+
+.player-card .actions button.edit-btn:hover {
+  background-color: #218838;
+}
+
+.player-card .actions button.delete-btn {
+  background-color: #dc3545;
+  border: none;
+  color: white;
+}
+
+.player-card .actions button.delete-btn:hover {
+  background-color: #c82333;
+}
+
+.player-info {
+  border-right: 1px solid #ddd;
+  padding-right: 1rem;
+}
+
+.player-trainings {
+  border-left: 1px solid #ddd;
+  padding-left: 1rem;
+}
+
+@media (max-width: 767px) {
+  .player-info, .player-trainings {
+    border: none;
+    padding: 0;
+  }
+}

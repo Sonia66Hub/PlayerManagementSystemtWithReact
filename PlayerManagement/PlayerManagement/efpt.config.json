@@ -1,0 +1,118 @@
+﻿{
+   "CodeGenerationMode": 4,
+   "ContextClassName": "PlayerManagementDBContext",
+   "ContextNamespace": null,
+   "FilterSchemas": false,
+   "IncludeConnectionString": false,
+   "MinimumProductVersion": "2.6.0",
+   "ModelNamespace": null,
+   "OutputContextPath": null,
+   "OutputPath": "Models",
+   "PreserveCasingWithRegex": true,
+   "ProjectRootNamespace": "PlayerManagement",
+   "Schemas": null,
+   "SelectedHandlebarsLanguage": 2,
+   "SelectedToBeGenerated": 0,
+   "T4TemplatePath": null,
+   "Tables": [
+      {
+         "Name": "[dbo].[BloodGroup]",
+         "ObjectType": 0
+      },
+      {
+         "Name": "[dbo].[EvaluationCategory]",
+         "ObjectType": 0
+      },
+      {
+         "Name": "[dbo].[EvaluationType]",
+         "ObjectType": 0
+      },
+      {
+         "Name": "[dbo].[Gender]",
+         "ObjectType": 0
+      },
+      {
+         "Name": "[dbo].[Managers]",
+         "ObjectType": 0
+      },
+      {
+         "Name": "[dbo].[ManagerTrainerAssignments]",
+         "ObjectType": 0
+      },
+      {
+         "Name": "[dbo].[Matches]",
+         "ObjectType": 0
+      },
+      {
+         "Name": "[dbo].[MatchFormats]",
+         "ObjectType": 0
+      },
+      {
+         "Name": "[dbo].[Player]",
+         "ObjectType": 0
+      },
+      {
+         "Name": "[dbo].[PlayerEvaluation]",
+         "ObjectType": 0
+      },
+      {
+         "Name": "[dbo].[PlayerEvaluationDetails]",
+         "ObjectType": 0
+      },
+      {
+         "Name": "[dbo].[PlayerTrainingAssignment]",
+         "ObjectType": 0
+      },
+      {
+         "Name": "[dbo].[Religion]",
+         "ObjectType": 0
+      },
+      {
+         "Name": "[dbo].[Skills]",
+         "ObjectType": 0
+      },
+      {
+         "Name": "[dbo].[SportsType]",
+         "ObjectType": 0
+      },
+      {
+         "Name": "[dbo].[Trainers]",
+         "ObjectType": 0
+      },
+      {
+         "Name": "[dbo].[TrainerSkills]",
+         "ObjectType": 0
+      },
+      {
+         "Name": "[dbo].[Training]",
+         "ObjectType": 0
+      }
+   ],
+   "UiHint": null,
+   "UncountableWords": null,
+   "UseAsyncStoredProcedureCalls": true,
+   "UseBoolPropertiesWithoutDefaultSql": false,
+   "UseDatabaseNames": false,
+   "UseDatabaseNamesForRoutines": true,
+   "UseDateOnlyTimeOnly": true,
+   "UseDbContextSplitting": false,
+   "UseDecimalDataAnnotationForSprocResult": true,
+   "UseFluentApiOnly": true,
+   "UseHandleBars": false,
+   "UseHierarchyId": false,
+   "UseInflector": true,
+   "UseInternalAccessModifiersForSprocsAndFunctions": false,
+   "UseLegacyPluralizer": false,
+   "UseManyToManyEntity": false,
+   "UseNoDefaultConstructor": false,
+   "UseNoNavigations": false,
+   "UseNoObjectFilter": false,
+   "UseNodaTime": false,
+   "UseNullableReferences": false,
+   "UsePrefixNavigationNaming": false,
+   "UseSchemaFolders": false,
+   "UseSchemaNamespaces": false,
+   "UseSpatial": false,
+   "UseT4": false,
+   "UseT4Split": false
+}
