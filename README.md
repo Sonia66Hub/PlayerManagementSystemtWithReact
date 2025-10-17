@@ -117,7 +117,7 @@ npm run build
 
 ## 📸 Screenshots *(Coming Soon)*
 
-> Will show UI previews and dashboards here once ready.
+> C:\Users\Administrator\Pictures\Screenshots\Screenshot 2025-10-17 052003.png.
 
 ---
 
