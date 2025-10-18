@@ -117,7 +117,8 @@ npm run build
 
 ## 📸 Screenshots *(Coming Soon)*
 
-> C:\Users\Administrator\Pictures\Screenshots\Screenshot 2025-10-17 051952.png
+<img width="1357" height="643" alt="Screenshot 2025-10-17 051952" src="https://github.com/user-attachments/assets/9fe9348a-ff3c-408e-acbd-893abf14b188" />
+
 
 ---
 
