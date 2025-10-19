@@ -1,4 +1,4 @@
-# 🏟️ Player Management System (PMS)
+# 🏟️ Player Management System (PMS) -Full Stack Web Application
 
 Keep your player records neat, secure, and easy to access — powered by **ASP.NET Core API + React**.
 
