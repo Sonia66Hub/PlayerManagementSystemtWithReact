@@ -122,9 +122,9 @@ npm run build
 
 ---
 
-## 🎥 Demo Video *(Coming Soon)*
+## 🎥 Demo Video **
 
-> A short demo walkthrough will be added soon.
+> https://youtu.be/W5U5koKV-kA
 
 ---
 
